@@ -1,0 +1,24 @@
+{
+  "require-dev": {
+    "infinum/coding-standards-wp": "0.4.1",
+    "dealerdirect/phpcodesniffer-composer-installer": "^0.5"
+  },
+  "require": {
+    "infinum/eightshift-libs": "0.5.0"
+  },
+  "autoload": {
+    "classmap": [
+      "src"
+    ]
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "config": {
+    "sort-packages": true,
+    "optimize-autoloader": true
+  },
+  "scripts": {
+    "check-cs": "@php ./vendor/bin/phpcs",
+    "fix-cs": "@php ./vendor/bin/phpcbf"
+  }
+}
