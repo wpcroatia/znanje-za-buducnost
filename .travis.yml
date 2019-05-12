@@ -48,7 +48,6 @@ matrix:
     - php: "7.4snapshot"
 
 before_install:
-  - echo "${SFTP_KEY}" | base64 --decode >/tmp/sftp_rsa
   - echo "${SFTP_KEY}"
   # Speed up build time by disabling Xdebug.
   - phpenv config-rm xdebug.ini || echo 'No xdebug config.'
