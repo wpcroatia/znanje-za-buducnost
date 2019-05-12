@@ -13,3 +13,8 @@ Once a certain set of features is developed, a PR should be created from the `de
 Merging to `master` branch will trigger a Travis CI deploy to the test site, where a new feature can be tested.
 
 Every set of features should be listed in the `CHANGELOG.md`, and tagged appropriately using [semver](https://semver.org/)
+
+
+### Local environment settings:
+
+Theme URL: http(s)://znanjezabuducnost.test
