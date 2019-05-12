@@ -48,18 +48,17 @@ matrix:
     - php: "7.4snapshot"
 
 before_install:
-  - echo "${SFTP_KEY}"
   # Speed up build time by disabling Xdebug.
   - phpenv config-rm xdebug.ini || echo 'No xdebug config.'
   # Install PHP CodeSniffer.
-  - cd wp-content/themes/znanje-za-buducnost/
+  - cd $TRAVIS_BUILD_DIR/wp-content/themes/znanje-za-buducnost/
   - composer self-update
   - composer clearcache
   - composer install
   - phpenv rehash
 
 script:
-  - cd wp-content/themes/znanje-za-buducnost/
+  - cd $TRAVIS_BUILD_DIR/wp-content/themes/znanje-za-buducnost/
   # Search for PHP syntax errors.
   - find -L . -path ./vendor -prune -o -name '*.php' -print0 | xargs -0 -n 1 -P 4 php -l
   # Run PHPCS.
