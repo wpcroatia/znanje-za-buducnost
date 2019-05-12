@@ -52,16 +52,15 @@ before_install:
   - phpenv config-rm xdebug.ini || echo 'No xdebug config.'
   # Install PHP CodeSniffer.
   - cd $TRAVIS_BUILD_DIR
-  - pwd
-  - ls -all
-  - cd $TRAVIS_BUILD_DIR/wp-content/themes/znanje-za-buducnost/
+  - cd wp-content/themes/znanje-za-buducnost/
   - composer self-update
   - composer clearcache
   - composer install
   - phpenv rehash
 
 script:
-  - cd $TRAVIS_BUILD_DIR/wp-content/themes/znanje-za-buducnost/
+  - cd $TRAVIS_BUILD_DIR
+  - cd wp-content/themes/znanje-za-buducnost/
   # Search for PHP syntax errors.
   - find -L . -path ./vendor -prune -o -name '*.php' -print0 | xargs -0 -n 1 -P 4 php -l
   # Run PHPCS.
