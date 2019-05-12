@@ -51,6 +51,9 @@ before_install:
   # Speed up build time by disabling Xdebug.
   - phpenv config-rm xdebug.ini || echo 'No xdebug config.'
   # Install PHP CodeSniffer.
+  - cd $TRAVIS_BUILD_DIR
+  - pwd
+  - ls -all
   - cd $TRAVIS_BUILD_DIR/wp-content/themes/znanje-za-buducnost/
   - composer self-update
   - composer clearcache
