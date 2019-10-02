@@ -1,4 +1,7 @@
-*.log
+# Project Specific
+wp-content/themes/*/public
+
+# Wordpress files
 wp-admin
 wp-includes
 /license.txt
@@ -18,38 +21,38 @@ wp-includes
 /wp-signup.php
 /wp-trackback.php
 /xmlrpc.php
-.htaccess
-robots.txt
 
-wp-content/advanced-cache.php
-wp-content/backup-db/
-wp-content/backups/
-wp-content/blogs.dir/
-wp-content/cache/
-wp-content/upgrade/
-wp-content/uploads/
-wp-content/mu-plugins/
-wp-content/wp-cache-config.php
+# Content
+!wp-content/plugins/
+
+# Theme
+wp-content/*
+!wp-content/mu-plugins/
+!wp-content/plugins/
+!wp-content/themes/
+/wp-content/themes/index.php
+
+# Ignore these plugins from the core
 wp-content/plugins/hello.php
+wp-content/plugins/akismet/
+/wp-content/plugins/index.php
 
-/.htaccess
-/sitemap.xml
-/sitemap.xml.gz
+# Ignore specific themes
+wp-content/themes/twenty*/
 
 # Project dev files
 /vendor
-/node_modules/
+/node_modules
 
 # Mac OS custom attribute store and thumbnails
 *.DS_Store
 ._*
 
-# Windows thumbnail cache files
-Thumbs.db
-ehthumbs.db
-ehthumbs_vista.db
-
 # Error logs
 error_log.txt
-debug.log
 wordfence-waf.php
+wflogs
+
+# Databases and exports
+latest_dump.tar.gz
+latest_dump
