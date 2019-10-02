@@ -1,0 +1,537 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ConferPress - Shortcodes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-26 08:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: shortcodes/blog.php:152 shortcodes/post-list.php:160
+msgid "1 Column"
+msgstr ""
+
+#: shortcodes/blog.php:151 shortcodes/post-grid.php:96
+#: shortcodes/post-list.php:159
+msgid "2 Column"
+msgstr ""
+
+#: shortcodes/post-grid.php:95 shortcodes/post-list.php:161
+msgid "3 Column"
+msgstr ""
+
+#: shortcodes/post-grid.php:97
+msgid "4 Column"
+msgstr ""
+
+#: shortcodes/heading.php:71
+msgid "Align"
+msgstr ""
+
+#: shortcodes/post-slider.php:189
+msgid "Align Left"
+msgstr ""
+
+#: shortcodes/post-slider.php:190
+msgid "Align Right"
+msgstr ""
+
+#: shortcodes/post-timeline.php:49
+msgid "All day"
+msgstr ""
+
+#: shortcodes.php:155
+msgid "Animation Delay"
+msgstr ""
+
+#: shortcodes/blog.php:204 shortcodes/post-carousel.php:253
+#: shortcodes/post-grid.php:172 shortcodes/post-list.php:226
+#: shortcodes/post-slider.php:279 shortcodes/post-timeline.php:186
+#: shortcodes/product-woo.php:181
+msgid "ASC"
+msgstr ""
+
+#: shortcodes/post-carousel.php:106 shortcodes/post-list.php:96
+msgid "At "
+msgstr ""
+
+#: shortcodes/blog.php:140 shortcodes/post-carousel.php:206
+#: shortcodes/post-grid.php:131 shortcodes/post-list.php:185
+#: shortcodes/post-slider.php:239 shortcodes/post-timeline.php:146
+msgid "Attachment"
+msgstr ""
+
+#: shortcodes/blog.php:217 shortcodes/post-carousel.php:266
+#: shortcodes/post-grid.php:185 shortcodes/post-list.php:239
+#: shortcodes/post-slider.php:292 shortcodes/post-timeline.php:199
+#: shortcodes/product-woo.php:194
+msgid "Author"
+msgstr ""
+
+#: shortcodes/testimonial.php:82
+msgid "Auto scroll Testimonials"
+msgstr ""
+
+#: shortcodes/countdown_clock.php:141
+msgid "Background Color"
+msgstr ""
+
+#: shortcodes/pricing-table.php:124
+msgid "Background image"
+msgstr ""
+
+#: shortcodes/button.php:99 shortcodes/heading.php:62
+msgid "Big"
+msgstr ""
+
+#: shortcodes/button.php:51
+msgid "Button"
+msgstr ""
+
+#: shortcodes/button.php:119
+msgid "Button Color"
+msgstr ""
+
+#: shortcodes/post-carousel.php:114 shortcodes/post-list.php:117
+msgid "Buy Now"
+msgstr ""
+
+#: shortcodes/post-slider.php:92
+msgid "Buy now"
+msgstr ""
+
+#: shortcodes/post-carousel.php:105 shortcodes/post-list.php:95
+msgid "By "
+msgstr ""
+
+#: shortcodes/heading.php:76 shortcodes/icon_box.php:124
+msgid "Center"
+msgstr ""
+
+#: shortcodes/post-slider.php:188
+msgid "Centered"
+msgstr ""
+
+#: shortcodes/blog.php:142 shortcodes/countdown_clock.php:135
+#: shortcodes/post-carousel.php:208 shortcodes/post-grid.php:134
+#: shortcodes/post-list.php:188 shortcodes/post-slider.php:241
+#: shortcodes/post-timeline.php:148
+msgid "Choose post type"
+msgstr ""
+
+#: shortcodes/blog.php:223 shortcodes/post-carousel.php:272
+#: shortcodes/post-grid.php:191 shortcodes/post-list.php:245
+#: shortcodes/post-slider.php:298 shortcodes/post-timeline.php:205
+#: shortcodes/product-woo.php:200
+msgid "Comment count"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "ConferPress - Shortcodes"
+msgstr ""
+
+#: shortcodes/blog.php:248 shortcodes/post-carousel.php:297
+#: shortcodes/post-grid.php:216 shortcodes/post-list.php:270
+#: shortcodes/post-slider.php:323 shortcodes/post-timeline.php:230
+msgid "Custom"
+msgstr ""
+
+#: shortcodes/button.php:111
+msgid "Dark"
+msgstr ""
+
+#: shortcodes/blog.php:215 shortcodes/post-carousel.php:264
+#: shortcodes/post-grid.php:183 shortcodes/post-list.php:237
+#: shortcodes/post-slider.php:290 shortcodes/post-timeline.php:197
+#: shortcodes/product-woo.php:192
+msgid "Date"
+msgstr ""
+
+#: shortcodes/countdown_clock.php:102
+msgid "Day"
+msgstr ""
+
+#: shortcodes/countdown_clock.php:18
+msgid "Days"
+msgstr ""
+
+#: shortcodes/blog.php:203 shortcodes/post-carousel.php:252
+#: shortcodes/post-grid.php:171 shortcodes/post-list.php:225
+#: shortcodes/post-slider.php:278 shortcodes/post-timeline.php:185
+#: shortcodes/product-woo.php:180
+msgid "DESC"
+msgstr ""
+
+#: shortcodes/post-slider.php:87 shortcodes/post-slider.php:107
+msgid "Detail"
+msgstr ""
+
+#: shortcodes.php:409
+msgid "Email this"
+msgstr ""
+
+#: shortcodes.php:157
+msgid "Enter Animation Delay in second (ex: 1.5)"
+msgstr ""
+
+#: shortcodes/blog.php:243 shortcodes/post-carousel.php:292
+#: shortcodes/post-grid.php:211 shortcodes/post-list.php:265
+#: shortcodes/post-slider.php:318 shortcodes/post-timeline.php:225
+msgid "Event display"
+msgstr ""
+
+#: shortcodes/post-slider.php:97
+msgid "From  "
+msgstr ""
+
+#: shortcodes/post-slider.php:144
+msgid "Get it now"
+msgstr ""
+
+#: shortcodes/post-slider.php:89
+msgid "Get Ticket"
+msgstr ""
+
+#: shortcodes/heading.php:32
+msgid "Heading"
+msgstr ""
+
+#: shortcodes/heading.php:43 shortcodes/heading.php:45
+msgid "Heading text"
+msgstr ""
+
+#: shortcodes/countdown_clock.php:111
+msgid "Hour"
+msgstr ""
+
+#: shortcodes/countdown_clock.php:18
+msgid "Hrs"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.leafcolor.com"
+msgstr ""
+
+#: shortcodes/icon_box.php:141
+msgid "Icon Background Hover"
+msgstr ""
+
+#: shortcodes/icon_box.php:132
+msgid "Icon Color"
+msgstr ""
+
+#: shortcodes/blog.php:216 shortcodes/post-carousel.php:265
+#: shortcodes/post-grid.php:184 shortcodes/post-list.php:238
+#: shortcodes/post-slider.php:291 shortcodes/post-timeline.php:198
+#: shortcodes/product-woo.php:193
+msgid "ID"
+msgstr ""
+
+#: shortcodes/post-carousel.php:112 shortcodes/post-list.php:115
+msgid "Join Now"
+msgstr ""
+
+#: shortcodes/icon_box.php:119
+msgid "Layout"
+msgstr ""
+
+#. Author of the plugin
+msgid "Leafcolor"
+msgstr ""
+
+#: shortcodes/heading.php:74 shortcodes/icon_box.php:122
+msgid "Left"
+msgstr ""
+
+#: shortcodes/button.php:110
+msgid "Light"
+msgstr ""
+
+#: shortcodes/post-grid.php:132 shortcodes/post-list.php:186
+msgid "Member"
+msgstr ""
+
+#: shortcodes/blog.php:224 shortcodes/post-carousel.php:273
+#: shortcodes/post-grid.php:192 shortcodes/post-list.php:246
+#: shortcodes/post-slider.php:299 shortcodes/post-timeline.php:206
+#: shortcodes/product-woo.php:201
+msgid "Menu order"
+msgstr ""
+
+#: shortcodes/blog.php:225 shortcodes/post-carousel.php:274
+#: shortcodes/post-grid.php:193 shortcodes/post-list.php:247
+#: shortcodes/post-slider.php:300 shortcodes/post-timeline.php:207
+#: shortcodes/product-woo.php:202
+msgid "Meta value"
+msgstr ""
+
+#: shortcodes/blog.php:226 shortcodes/post-carousel.php:275
+#: shortcodes/post-grid.php:194 shortcodes/post-list.php:248
+#: shortcodes/post-slider.php:301 shortcodes/post-timeline.php:208
+#: shortcodes/product-woo.php:203
+msgid "Meta value num"
+msgstr ""
+
+#: shortcodes/countdown_clock.php:18
+msgid "Mins"
+msgstr ""
+
+#: shortcodes/countdown_clock.php:120
+msgid "Minute"
+msgstr ""
+
+#: shortcodes/blog.php:220 shortcodes/post-carousel.php:269
+#: shortcodes/post-grid.php:188 shortcodes/post-list.php:242
+#: shortcodes/post-slider.php:295 shortcodes/post-timeline.php:202
+#: shortcodes/product-woo.php:197
+msgid "Modified"
+msgstr ""
+
+#: shortcodes/countdown_clock.php:93
+msgid "Month"
+msgstr ""
+
+#: shortcodes/blog.php:258 shortcodes/post-carousel.php:307
+#: shortcodes/post-grid.php:226 shortcodes/post-list.php:280
+#: shortcodes/post-slider.php:333 shortcodes/post-timeline.php:240
+msgid "Month ago"
+msgstr ""
+
+#: shortcodes/blog.php:219 shortcodes/post-carousel.php:268
+#: shortcodes/post-grid.php:187 shortcodes/post-list.php:241
+#: shortcodes/post-slider.php:294 shortcodes/post-timeline.php:201
+#: shortcodes/product-woo.php:196
+msgid "Name"
+msgstr ""
+
+#: shortcodes/blog.php:269 shortcodes/post-carousel.php:318
+#: shortcodes/post-grid.php:237 shortcodes/post-list.php:291
+#: shortcodes/post-slider.php:344 shortcodes/post-timeline.php:251
+msgid "Next Month"
+msgstr ""
+
+#: shortcodes/blog.php:268 shortcodes/post-carousel.php:317
+#: shortcodes/post-grid.php:236 shortcodes/post-list.php:290
+#: shortcodes/post-slider.php:343 shortcodes/post-timeline.php:250
+msgid "Next Week"
+msgstr ""
+
+#: shortcodes/blog.php:270 shortcodes/post-carousel.php:319
+#: shortcodes/post-grid.php:238 shortcodes/post-list.php:292
+#: shortcodes/post-slider.php:345 shortcodes/post-timeline.php:252
+msgid "Next Year"
+msgstr ""
+
+#: shortcodes/blog.php:164 shortcodes/button.php:79
+#: shortcodes/countdown_clock.php:133 shortcodes/icon_box.php:103
+#: shortcodes/post-carousel.php:186 shortcodes/post-grid.php:107
+#: shortcodes/post-grid.php:116 shortcodes/post-list.php:171
+#: shortcodes/post-slider.php:208 shortcodes/post-slider.php:218
+#: shortcodes/testimonial.php:80
+msgid "No"
+msgstr ""
+
+#: shortcodes/blog.php:228 shortcodes/post-carousel.php:277
+#: shortcodes/post-grid.php:196 shortcodes/post-list.php:250
+#: shortcodes/post-slider.php:303 shortcodes/post-timeline.php:210
+#: shortcodes/product-woo.php:205
+msgid "None"
+msgstr ""
+
+#: shortcodes/countdown_clock.php:150
+msgid "Number Color"
+msgstr ""
+
+#: shortcodes/post-carousel.php:243
+msgid "Number of items visible in Carousel. Default is 4"
+msgstr ""
+
+#: shortcodes/post-slider.php:269
+msgid "Number of posts to show. Default is 3"
+msgstr ""
+
+#: shortcodes/blog.php:194
+msgid "Number of posts to show. Default is 4"
+msgstr ""
+
+#: shortcodes/post-carousel.php:236 shortcodes/post-grid.php:162
+#: shortcodes/post-list.php:216 shortcodes/post-timeline.php:176
+#: shortcodes/product-woo.php:171
+msgid "Number of posts to show. Default is 8"
+msgstr ""
+
+#: shortcodes/blog.php:250 shortcodes/post-carousel.php:299
+#: shortcodes/post-grid.php:218 shortcodes/post-list.php:272
+#: shortcodes/post-slider.php:325 shortcodes/post-timeline.php:232
+msgid "Only work with post type is Event"
+msgstr ""
+
+#: shortcodes/blog.php:200 shortcodes/post-carousel.php:249
+#: shortcodes/post-grid.php:168 shortcodes/post-list.php:222
+#: shortcodes/post-slider.php:275 shortcodes/post-timeline.php:182
+#: shortcodes/product-woo.php:177
+msgid "Order"
+msgstr ""
+
+#: shortcodes/blog.php:212 shortcodes/post-carousel.php:261
+#: shortcodes/post-grid.php:180 shortcodes/post-list.php:234
+#: shortcodes/post-slider.php:287 shortcodes/post-timeline.php:194
+#: shortcodes/product-woo.php:189
+msgid "Order by"
+msgstr ""
+
+#: shortcodes/blog.php:221 shortcodes/post-carousel.php:270
+#: shortcodes/post-grid.php:189 shortcodes/post-list.php:243
+#: shortcodes/post-slider.php:296 shortcodes/post-timeline.php:203
+#: shortcodes/product-woo.php:198
+msgid "Parent"
+msgstr ""
+
+#: shortcodes.php:406
+msgid "Pin this"
+msgstr ""
+
+#: shortcodes/blog.php:137 shortcodes/post-carousel.php:203
+#: shortcodes/post-grid.php:128 shortcodes/post-list.php:182
+#: shortcodes/post-slider.php:236 shortcodes/post-timeline.php:143
+msgid "Post"
+msgstr ""
+
+#: shortcodes/blog.php:227 shortcodes/post-carousel.php:276
+#: shortcodes/post-grid.php:195 shortcodes/post-list.php:249
+#: shortcodes/post-slider.php:302 shortcodes/post-timeline.php:209
+#: shortcodes/product-woo.php:204
+msgid "Post__in"
+msgstr ""
+
+#: shortcodes/blog.php:139 shortcodes/post-carousel.php:205
+#: shortcodes/post-grid.php:130 shortcodes/post-list.php:184
+#: shortcodes/post-slider.php:238 shortcodes/post-timeline.php:145
+msgid "Product"
+msgstr ""
+
+#: shortcodes/blog.php:222 shortcodes/post-carousel.php:271
+#: shortcodes/post-grid.php:190 shortcodes/post-list.php:244
+#: shortcodes/post-slider.php:297 shortcodes/post-timeline.php:204
+#: shortcodes/product-woo.php:199
+msgid "Random"
+msgstr ""
+
+#: shortcodes/post-carousel.php:116 shortcodes/post-list.php:119
+msgid "Read More"
+msgstr ""
+
+#: shortcodes/blog.php:247 shortcodes/post-carousel.php:296
+#: shortcodes/post-grid.php:215 shortcodes/post-list.php:269
+#: shortcodes/post-slider.php:322 shortcodes/post-timeline.php:229
+msgid "Recent"
+msgstr ""
+
+#: shortcodes/heading.php:75 shortcodes/icon_box.php:123
+msgid "Right"
+msgstr ""
+
+#: shortcodes/countdown_clock.php:18
+msgid "Secs"
+msgstr ""
+
+#: shortcodes/post-list.php:102
+msgid "Share"
+msgstr ""
+
+#: shortcodes.php:391
+msgid "Share on Facebook"
+msgstr ""
+
+#: shortcodes.php:403
+msgid "Share on Google Plus"
+msgstr ""
+
+#: shortcodes.php:397
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: shortcodes.php:400
+msgid "Share on Tumblr"
+msgstr ""
+
+#: shortcodes.php:394
+msgid "Share on Twitter"
+msgstr ""
+
+#: shortcodes/heading.php:59
+msgid "Size"
+msgstr ""
+
+#: shortcodes/button.php:98 shortcodes/heading.php:63
+msgid "Small"
+msgstr ""
+
+#: shortcodes/button.php:107
+msgid "Style"
+msgstr ""
+
+#: shortcodes/post-slider.php:140
+msgid "Ticket"
+msgstr ""
+
+#: shortcodes/post-slider.php:114
+msgid "Time"
+msgstr ""
+
+#: shortcodes/blog.php:218 shortcodes/post-carousel.php:267
+#: shortcodes/post-grid.php:186 shortcodes/post-list.php:240
+#: shortcodes/post-slider.php:293 shortcodes/post-timeline.php:200
+#: shortcodes/product-woo.php:195
+msgid "Title"
+msgstr ""
+
+#: shortcodes/blog.php:138 shortcodes/post-carousel.php:204
+#: shortcodes/post-grid.php:129 shortcodes/post-list.php:183
+#: shortcodes/post-slider.php:237 shortcodes/post-timeline.php:144
+msgid "Tribe Events"
+msgstr ""
+
+#: shortcodes/blog.php:246 shortcodes/post-carousel.php:295
+#: shortcodes/post-grid.php:214 shortcodes/post-list.php:268
+#: shortcodes/post-slider.php:321 shortcodes/post-timeline.php:228
+msgid "Upcoming"
+msgstr ""
+
+#: shortcodes/post-slider.php:122
+msgid "Venue"
+msgstr ""
+
+#: shortcodes/blog.php:257 shortcodes/post-carousel.php:306
+#: shortcodes/post-grid.php:225 shortcodes/post-list.php:279
+#: shortcodes/post-slider.php:332 shortcodes/post-timeline.php:239
+msgid "Week ago"
+msgstr ""
+
+#: shortcodes/blog.php:259 shortcodes/post-carousel.php:308
+#: shortcodes/post-grid.php:227 shortcodes/post-list.php:281
+#: shortcodes/post-slider.php:334 shortcodes/post-timeline.php:241
+msgid "Year ago"
+msgstr ""
+
+#: shortcodes/countdown_clock.php:84
+msgid "Year:"
+msgstr ""
+
+#: shortcodes/blog.php:163 shortcodes/button.php:80
+#: shortcodes/countdown_clock.php:132 shortcodes/icon_box.php:104
+#: shortcodes/post-carousel.php:185 shortcodes/post-grid.php:106
+#: shortcodes/post-grid.php:117 shortcodes/post-list.php:170
+#: shortcodes/post-slider.php:207 shortcodes/post-slider.php:219
+#: shortcodes/testimonial.php:79
+msgid "Yes"
+msgstr ""
