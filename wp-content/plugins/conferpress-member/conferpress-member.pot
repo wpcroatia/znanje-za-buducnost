@@ -1,0 +1,168 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ConferPress - Member\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-22 06:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: member.php:54
+msgid "Add Member"
+msgstr ""
+
+#: member.php:55
+msgid "Add New Member"
+msgstr ""
+
+#: member.php:58
+msgid "All Member"
+msgstr ""
+
+#. Name of the plugin
+msgid "ConferPress - Member"
+msgstr ""
+
+#. Description of the plugin
+msgid "ConferPress Member Plugin"
+msgstr ""
+
+#: member.php:217
+msgid "Dribble"
+msgstr ""
+
+#: member.php:56
+msgid "Edit Member"
+msgstr ""
+
+#: member.php:227
+msgid "Email"
+msgstr ""
+
+#: views/single-member.php:3
+msgid "Events"
+msgstr ""
+
+#: member.php:144
+msgid "Facebook"
+msgstr ""
+
+#: member.php:162
+msgid "Flickr"
+msgstr ""
+
+#: member.php:171
+msgid "Google+"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.leafcolor.com"
+msgstr ""
+
+#: member-shortcode.php:104
+msgid "ID"
+msgstr ""
+
+#: member.php:180
+msgid "Instagram"
+msgstr ""
+
+#: views/single-member.php:96
+msgid "Join Now"
+msgstr ""
+
+#. Author of the plugin
+msgid "LeafColor"
+msgstr ""
+
+#: member.php:189
+msgid "LinkedIn"
+msgstr ""
+
+#: member-shortcode.php:93 member.php:52 member.php:53 member.php:64
+msgid "Member"
+msgstr ""
+
+#: member.php:116
+msgid "Member info"
+msgstr ""
+
+#: member.php:136
+msgid "Member Social"
+msgstr ""
+
+#: member.php:57
+msgid "New Member"
+msgstr ""
+
+#: member-shortcode.php:114
+msgid "No"
+msgstr ""
+
+#: member.php:61
+msgid "No Member found"
+msgstr ""
+
+#: member.php:62
+msgid "No Member found in Trash"
+msgstr ""
+
+#: views/single-member.php:114
+msgid "Other "
+msgstr ""
+
+#: member.php:198
+msgid "Pinterest"
+msgstr ""
+
+#: member.php:124
+msgid "Position"
+msgstr ""
+
+#: member.php:263
+msgid "RSS"
+msgstr ""
+
+#: member.php:60
+msgid "Search Member"
+msgstr ""
+
+#: member.php:207
+msgid "StumbleUpon"
+msgstr ""
+
+#: member.php:153
+msgid "Twitter"
+msgstr ""
+
+#: views/single-member.php:40
+msgid "Upcoming"
+msgstr ""
+
+#: member.php:59
+msgid "View Member"
+msgstr ""
+
+#: member.php:236
+msgid "Vimeo"
+msgstr ""
+
+#: member.php:254
+msgid "Vk"
+msgstr ""
+
+#: member-shortcode.php:115
+msgid "Yes"
+msgstr ""
+
+#: member.php:245
+msgid "YouTube"
+msgstr ""
